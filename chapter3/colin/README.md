@@ -10,7 +10,7 @@
     - React 공식 메뉴얼 권장 : `함수형 Component` + `Hooks`
 
 ### Props
-- Child에서 Parent Component의 값을 불러와 사용하는 요소
+- Parent -> Child로 전달되는 Parent의 데이터 요소
 - props를 렌더링 할 때는 JSX 내부에서 `{}`를 사용
     - props.`attr`
     - props.children (컴포넌트 Tag 사이의 내용을 보여줌)
